@@ -46,7 +46,7 @@ class Supply {
     }
 
     /**
-     * @pjavadoc: error - No public or protected classes found to document.aram amount amount of food for adding to box
+     * @pjavadoc: amount of food for adding to box
      */
     public void add(int amount) {
         quantity += amount;
