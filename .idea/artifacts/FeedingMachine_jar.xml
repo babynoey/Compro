@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FeedingMachine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FeedingMachine_jar</output-path>
+    <root id="archive" name="FeedingMachine.jar">
+      <element id="module-output" name="FeedingMachine" />
+    </root>
+  </artifact>
+</component>
