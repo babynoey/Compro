@@ -4,7 +4,6 @@ class Supply {
 
     private String name;
     private int quantity;
-    int getQuantity;
 
     /**
      * Constructor of supply
